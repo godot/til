@@ -1,0 +1,2 @@
+check file alerttest with path /.nonexistent
+  alert address@hidden with reminder on 500 cycles
